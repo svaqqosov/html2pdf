@@ -17,3 +17,13 @@ packages:
           environment: {}
           annotations: {}
           limits: {}
+        - name: text
+          binary: false
+          main: ""
+          runtime: nodejs:default
+          web: true
+          webSecure: false
+          parameters: {}
+          environment: {}
+          annotations: {}
+          limits: {}

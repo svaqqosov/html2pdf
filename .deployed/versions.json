@@ -4,14 +4,18 @@
     "namespace": "fn-53c82fca-b4ec-49c2-98dc-f98b0c4d2f53",
     "packageVersions": {
       "sample": {
-        "version": "0.0.1",
-        "digest": "e4a2720e87c619a56019f373ead5690d39813e0a319af5e91ec0aa0fc3604409"
+        "version": "0.0.8",
+        "digest": "115cf6e605edcf565011d2e8712d0ad91b3bec9b1b9d3ee44aa117d9213ae402"
       }
     },
     "actionVersions": {
       "sample/hello": {
-        "version": "0.0.1",
+        "version": "0.0.8",
         "digest": "7db65ca9c67505a1f267244b9414fa50f76e497a9f8cff61fdfa606983ecdb2c"
+      },
+      "sample/text": {
+        "version": "0.0.7",
+        "digest": "568321a2aa9a6f75b9f98993b9c72ec8439c4aa4c2428d3f4cad66a52fe2425c"
       }
     },
     "webHashes": {}
